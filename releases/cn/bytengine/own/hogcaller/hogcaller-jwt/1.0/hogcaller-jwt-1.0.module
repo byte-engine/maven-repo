@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-jwt",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "xjrjaob6ejh7fldphppyeip4qq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.auth0",
+          "module": "java-jwt",
+          "version": {
+            "requires": "3.11.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jwt-1.0.jar",
+          "url": "hogcaller-jwt-1.0.jar",
+          "size": 3559,
+          "sha512": "185f6b38c62da0a090dd644733a6f2572fdfacf4d83af58e47da822422dfd385686777843c5f59b520cdd69109701cff694bfbdbcbf6f4a3fdba814c16b7ff89",
+          "sha256": "c151c2cb0dfd1fac985843d9649a3d414e5106e74065cc90d52da4e4729bf070",
+          "sha1": "2650c9cbf1df3813ad880539c20f869641c83fcb",
+          "md5": "595af5cb0d8d0175b1560e96699a8145"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.auth0",
+          "module": "java-jwt",
+          "version": {
+            "requires": "3.11.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jwt-1.0.jar",
+          "url": "hogcaller-jwt-1.0.jar",
+          "size": 3559,
+          "sha512": "185f6b38c62da0a090dd644733a6f2572fdfacf4d83af58e47da822422dfd385686777843c5f59b520cdd69109701cff694bfbdbcbf6f4a3fdba814c16b7ff89",
+          "sha256": "c151c2cb0dfd1fac985843d9649a3d414e5106e74065cc90d52da4e4729bf070",
+          "sha1": "2650c9cbf1df3813ad880539c20f869641c83fcb",
+          "md5": "595af5cb0d8d0175b1560e96699a8145"
+        }
+      ]
+    }
+  ]
+}
