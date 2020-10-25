@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-jwt",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7",
+      "buildId": "vixyyk4uo5g23gjbihnuo7wjmm"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.auth0",
+          "module": "java-jwt",
+          "version": {
+            "requires": "3.11.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jwt-1.0.1.jar",
+          "url": "hogcaller-jwt-1.0.1.jar",
+          "size": 3559,
+          "sha512": "7019f74b5a7b54c004a68efb7e13f487082d3ff30ed4f03a1fa7bfdae858724da2b5cf1d487047d472eeb27f37246b8886129d8c091c957b1d18f07112ab6e96",
+          "sha256": "ded7842aeab9739d69c38a2c1e6190d2a7a1c59abe1ba9d989469706170b4149",
+          "sha1": "e236b839c0131ab375d243cf726fee526afa93c8",
+          "md5": "00d1853552a223801ceff29ce86e719e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.auth0",
+          "module": "java-jwt",
+          "version": {
+            "requires": "3.11.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jwt-1.0.1.jar",
+          "url": "hogcaller-jwt-1.0.1.jar",
+          "size": 3559,
+          "sha512": "7019f74b5a7b54c004a68efb7e13f487082d3ff30ed4f03a1fa7bfdae858724da2b5cf1d487047d472eeb27f37246b8886129d8c091c957b1d18f07112ab6e96",
+          "sha256": "ded7842aeab9739d69c38a2c1e6190d2a7a1c59abe1ba9d989469706170b4149",
+          "sha1": "e236b839c0131ab375d243cf726fee526afa93c8",
+          "md5": "00d1853552a223801ceff29ce86e719e"
+        }
+      ]
+    }
+  ]
+}
