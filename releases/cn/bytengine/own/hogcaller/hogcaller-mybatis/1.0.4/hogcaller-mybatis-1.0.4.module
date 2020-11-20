@@ -1,0 +1,107 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-mybatis",
+    "version": "1.0.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7.1",
+      "buildId": "rpigjsfpq5henpnlbxkvzxbwx4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "cn.bytengine.own.hogcaller",
+          "module": "hogcaller-base",
+          "version": {
+            "requires": "1.0.4"
+          }
+        },
+        {
+          "group": "com.baomidou",
+          "module": "mybatis-plus",
+          "version": {
+            "requires": "3.4.0"
+          }
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-beans",
+          "version": {
+            "requires": "5.2.9.RELEASE"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-mybatis-1.0.4.jar",
+          "url": "hogcaller-mybatis-1.0.4.jar",
+          "size": 10200,
+          "sha512": "056e2ebb18bc924a9164082b31bf00a869a269a32fe67f050a014dd2a942813e3d5ae29ccc3043c1c5b3695e6fb04e07034bbed74d8244c7b5a4409e6c907109",
+          "sha256": "ce1f7f1d59858aa6445a43c4c3fe497ed2af6c220af58270e1844ff63a059672",
+          "sha1": "3cf80e6e4f9bfc4191c2bb0483c5beb23cc333df",
+          "md5": "af967dc503c4193c3c9afc3d4f6724b7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "cn.bytengine.own.hogcaller",
+          "module": "hogcaller-base",
+          "version": {
+            "requires": "1.0.4"
+          }
+        },
+        {
+          "group": "com.baomidou",
+          "module": "mybatis-plus",
+          "version": {
+            "requires": "3.4.0"
+          }
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-beans",
+          "version": {
+            "requires": "5.2.9.RELEASE"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-mybatis-1.0.4.jar",
+          "url": "hogcaller-mybatis-1.0.4.jar",
+          "size": 10200,
+          "sha512": "056e2ebb18bc924a9164082b31bf00a869a269a32fe67f050a014dd2a942813e3d5ae29ccc3043c1c5b3695e6fb04e07034bbed74d8244c7b5a4409e6c907109",
+          "sha256": "ce1f7f1d59858aa6445a43c4c3fe497ed2af6c220af58270e1844ff63a059672",
+          "sha1": "3cf80e6e4f9bfc4191c2bb0483c5beb23cc333df",
+          "md5": "af967dc503c4193c3c9afc3d4f6724b7"
+        }
+      ]
+    }
+  ]
+}
