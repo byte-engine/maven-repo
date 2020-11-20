@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.7",
-      "buildId": "vixyyk4uo5g23gjbihnuo7wjmm"
+      "version": "6.7.1",
+      "buildId": "qfxofga3vfbz3mlh2abimduvme"
     }
   },
   "variants": [
@@ -44,11 +44,11 @@
         {
           "name": "hogcaller-base-1.0.1.jar",
           "url": "hogcaller-base-1.0.1.jar",
-          "size": 17083,
-          "sha512": "0dcabc0e482e37b5a8bc7a0e939cd6f5fdafea0ff4536b43bfd00bc1a6a1e4c559b36f5b7767a5dc4751b0df209391a879cff145574676b6986e6abcc95c5339",
-          "sha256": "9ae7e99475c4f5e9251fa94366b262e3a1e9451239ca4fb18ba1b9a164333170",
-          "sha1": "95b6a0171d00f1b2d51dfad36bc6dbcefedb39ed",
-          "md5": "fda13698693109e4d44ad72111a5fb6e"
+          "size": 37210,
+          "sha512": "434034f35537807f4df2d8517d5a40349d30866f60c278b8800fc318ba1d4d42257018626c0e2753247dd53ed6bc8835bd2a6ba4c5a7c7cad392b1365f27ea07",
+          "sha256": "0574fffe8e9f15162cca41e5fda493aaec60aae2148892ddc9c94885e9e7c4b8",
+          "sha1": "88ce68e74409c0bbe7f8b6f2a1b5fe342f07acfa",
+          "md5": "e0b615e020ecf8efb05e7155c76f600d"
         }
       ]
     },
@@ -81,11 +81,11 @@
         {
           "name": "hogcaller-base-1.0.1.jar",
           "url": "hogcaller-base-1.0.1.jar",
-          "size": 17083,
-          "sha512": "0dcabc0e482e37b5a8bc7a0e939cd6f5fdafea0ff4536b43bfd00bc1a6a1e4c559b36f5b7767a5dc4751b0df209391a879cff145574676b6986e6abcc95c5339",
-          "sha256": "9ae7e99475c4f5e9251fa94366b262e3a1e9451239ca4fb18ba1b9a164333170",
-          "sha1": "95b6a0171d00f1b2d51dfad36bc6dbcefedb39ed",
-          "md5": "fda13698693109e4d44ad72111a5fb6e"
+          "size": 37210,
+          "sha512": "434034f35537807f4df2d8517d5a40349d30866f60c278b8800fc318ba1d4d42257018626c0e2753247dd53ed6bc8835bd2a6ba4c5a7c7cad392b1365f27ea07",
+          "sha256": "0574fffe8e9f15162cca41e5fda493aaec60aae2148892ddc9c94885e9e7c4b8",
+          "sha1": "88ce68e74409c0bbe7f8b6f2a1b5fe342f07acfa",
+          "md5": "e0b615e020ecf8efb05e7155c76f600d"
         }
       ]
     }

@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.7",
-      "buildId": "vixyyk4uo5g23gjbihnuo7wjmm"
+      "version": "6.7.1",
+      "buildId": "qfxofga3vfbz3mlh2abimduvme"
     }
   },
   "variants": [
@@ -45,10 +45,10 @@
           "name": "hogcaller-spring-1.0.1.jar",
           "url": "hogcaller-spring-1.0.1.jar",
           "size": 6483,
-          "sha512": "8bfc06e3f6e5882dba145c1eb44db90a8493acbeea40955a3b6d9faa0c4249fefdcd0c393d2c8a813edc6c19fe92e7030ab8afd19c7a7482c01f1cb6a8948ef6",
-          "sha256": "a51c99f2e1103638ad4bec597a44982cf0b1632fafd8232a4ae65d7a88f534fd",
-          "sha1": "b5596c9e33a087caa0a6db3fbb1a49a1c2c198a0",
-          "md5": "7ee6e5b8157b1e17627424ab3c0ddb0c"
+          "sha512": "1e7d93c442c38e8f158b27f7db5d25ef1bbce69c97a376ea8381c05dd5cfc5b757c01df4cf97bff937018d9439ec53a66596c636751042f91dfd62da9f530d01",
+          "sha256": "4cc2e7bd8e6aa8986b4b2265242d632c4b21444f97f1caa6aa6436f707d30faa",
+          "sha1": "de372ef1bfd3aa854485905046ccce8668afedb2",
+          "md5": "e3dabf70ba556263d37c9a217b7fac9c"
         }
       ]
     },
@@ -82,10 +82,10 @@
           "name": "hogcaller-spring-1.0.1.jar",
           "url": "hogcaller-spring-1.0.1.jar",
           "size": 6483,
-          "sha512": "8bfc06e3f6e5882dba145c1eb44db90a8493acbeea40955a3b6d9faa0c4249fefdcd0c393d2c8a813edc6c19fe92e7030ab8afd19c7a7482c01f1cb6a8948ef6",
-          "sha256": "a51c99f2e1103638ad4bec597a44982cf0b1632fafd8232a4ae65d7a88f534fd",
-          "sha1": "b5596c9e33a087caa0a6db3fbb1a49a1c2c198a0",
-          "md5": "7ee6e5b8157b1e17627424ab3c0ddb0c"
+          "sha512": "1e7d93c442c38e8f158b27f7db5d25ef1bbce69c97a376ea8381c05dd5cfc5b757c01df4cf97bff937018d9439ec53a66596c636751042f91dfd62da9f530d01",
+          "sha256": "4cc2e7bd8e6aa8986b4b2265242d632c4b21444f97f1caa6aa6436f707d30faa",
+          "sha1": "de372ef1bfd3aa854485905046ccce8668afedb2",
+          "md5": "e3dabf70ba556263d37c9a217b7fac9c"
         }
       ]
     }

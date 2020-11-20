@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-observer-annotations",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7.1",
+      "buildId": "qfxofga3vfbz3mlh2abimduvme"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "cn.bytengine.own.hogcaller",
+          "module": "hogcaller-base",
+          "version": {
+            "requires": "1.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-observer-annotations-1.0.1.jar",
+          "url": "hogcaller-observer-annotations-1.0.1.jar",
+          "size": 3840,
+          "sha512": "6192217461fcc943fe1797ddeced5c70bb9d7985c2fcb2c8dfc35b9970e128ff1286436ead9da0e9b48cdd12b38df182a76ae307b28ad9399dd23a0bb15f71bc",
+          "sha256": "1e8fe2ad6b71dc68070106a00c821e183d55d38041f8a465e6cc52b4ee2f7e44",
+          "sha1": "87dcd9b3ce22f79c1d2312db364ce753180d9c44",
+          "md5": "676206b81011b4b9b150ecacffb16362"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "cn.bytengine.own.hogcaller",
+          "module": "hogcaller-base",
+          "version": {
+            "requires": "1.0.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-observer-annotations-1.0.1.jar",
+          "url": "hogcaller-observer-annotations-1.0.1.jar",
+          "size": 3840,
+          "sha512": "6192217461fcc943fe1797ddeced5c70bb9d7985c2fcb2c8dfc35b9970e128ff1286436ead9da0e9b48cdd12b38df182a76ae307b28ad9399dd23a0bb15f71bc",
+          "sha256": "1e8fe2ad6b71dc68070106a00c821e183d55d38041f8a465e6cc52b4ee2f7e44",
+          "sha1": "87dcd9b3ce22f79c1d2312db364ce753180d9c44",
+          "md5": "676206b81011b4b9b150ecacffb16362"
+        }
+      ]
+    }
+  ]
+}

@@ -10,8 +10,8 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.7",
-      "buildId": "vixyyk4uo5g23gjbihnuo7wjmm"
+      "version": "6.7.1",
+      "buildId": "qfxofga3vfbz3mlh2abimduvme"
     }
   },
   "variants": [
@@ -52,10 +52,10 @@
           "name": "hogcaller-mybatis-1.0.1.jar",
           "url": "hogcaller-mybatis-1.0.1.jar",
           "size": 10200,
-          "sha512": "1720b7c26ace4d17e673bf74fbc515c48a2d2719732f2098ccef8f84af41407fbc73dcb97801e8b0b110c18e0c1ec4f1f01ac95fc07bf40cf0556cf710215c9b",
-          "sha256": "39231fc470bca507b90531c49350d88405973984eae3c36e48a1635bfdfb18fb",
-          "sha1": "23930f105201370149dd19fea999bae89990ced8",
-          "md5": "1b7a9f1c5b3fa6a229009cceb93bd2eb"
+          "sha512": "69e299149706f369d905690aa64366151bb343ff86a228ac0dae64b6cf2c2f7a59d9337e8685fd7fb1a7090a2c8a0fd77b705fa177da1e01f674332a1e58726e",
+          "sha256": "609a89760f9ccaf7e920aa0683a3a3c5475fceefafe81a80e1d63ed6e148dff3",
+          "sha1": "702d209e6e3e5d1908b48632ab479c60d34841ca",
+          "md5": "9e8dccaa66b6891c9b1646c3fa08d725"
         }
       ]
     },
@@ -96,10 +96,10 @@
           "name": "hogcaller-mybatis-1.0.1.jar",
           "url": "hogcaller-mybatis-1.0.1.jar",
           "size": 10200,
-          "sha512": "1720b7c26ace4d17e673bf74fbc515c48a2d2719732f2098ccef8f84af41407fbc73dcb97801e8b0b110c18e0c1ec4f1f01ac95fc07bf40cf0556cf710215c9b",
-          "sha256": "39231fc470bca507b90531c49350d88405973984eae3c36e48a1635bfdfb18fb",
-          "sha1": "23930f105201370149dd19fea999bae89990ced8",
-          "md5": "1b7a9f1c5b3fa6a229009cceb93bd2eb"
+          "sha512": "69e299149706f369d905690aa64366151bb343ff86a228ac0dae64b6cf2c2f7a59d9337e8685fd7fb1a7090a2c8a0fd77b705fa177da1e01f674332a1e58726e",
+          "sha256": "609a89760f9ccaf7e920aa0683a3a3c5475fceefafe81a80e1d63ed6e148dff3",
+          "sha1": "702d209e6e3e5d1908b48632ab479c60d34841ca",
+          "md5": "9e8dccaa66b6891c9b1646c3fa08d725"
         }
       ]
     }
