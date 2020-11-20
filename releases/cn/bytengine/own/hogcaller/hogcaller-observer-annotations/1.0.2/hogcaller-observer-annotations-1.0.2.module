@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.7.1",
-      "buildId": "jzvd5jge2rg5hly34g5shup46e"
+      "buildId": "pdedykfcdfc4jjcozzvjnyeega"
     }
   },
   "variants": [
@@ -37,11 +37,11 @@
         {
           "name": "hogcaller-observer-annotations-1.0.2.jar",
           "url": "hogcaller-observer-annotations-1.0.2.jar",
-          "size": 3840,
-          "sha512": "0ae593b4c7ebc5aed04f352005d39cb068632af650fc73d9ea07ac3b31d9e64afb0ebfcd53d44b7b05272023e66c468ab75b79bd189d80cb6a21efa69ac435c6",
-          "sha256": "cad18d1fa00c7166b84b84edc1c88b48a0c505ae59886fe8e941ba568e29d6e5",
-          "sha1": "518bfb1a2d42c56244b3932ff5d56560013d4c25",
-          "md5": "decad975de9c07fa7d21b300a8480f8e"
+          "size": 3956,
+          "sha512": "7ce50b680b760790ff281fd9373f176b9b48ecf39397590f086e278570ac16e91e7caaf3a4283eb07561c95c7cdcfa491150158fcb9a11a8cc1173ee55ba2da9",
+          "sha256": "c751b632370b5d3b40330d56f688971e37e42ce3af701ff7e65bfaaa6bf508bf",
+          "sha1": "4236f2858a5d3dec77493e50e65e65175834381b",
+          "md5": "5354a08269ccd7137ece89bf2438ebf0"
         }
       ]
     },
@@ -67,11 +67,11 @@
         {
           "name": "hogcaller-observer-annotations-1.0.2.jar",
           "url": "hogcaller-observer-annotations-1.0.2.jar",
-          "size": 3840,
-          "sha512": "0ae593b4c7ebc5aed04f352005d39cb068632af650fc73d9ea07ac3b31d9e64afb0ebfcd53d44b7b05272023e66c468ab75b79bd189d80cb6a21efa69ac435c6",
-          "sha256": "cad18d1fa00c7166b84b84edc1c88b48a0c505ae59886fe8e941ba568e29d6e5",
-          "sha1": "518bfb1a2d42c56244b3932ff5d56560013d4c25",
-          "md5": "decad975de9c07fa7d21b300a8480f8e"
+          "size": 3956,
+          "sha512": "7ce50b680b760790ff281fd9373f176b9b48ecf39397590f086e278570ac16e91e7caaf3a4283eb07561c95c7cdcfa491150158fcb9a11a8cc1173ee55ba2da9",
+          "sha256": "c751b632370b5d3b40330d56f688971e37e42ce3af701ff7e65bfaaa6bf508bf",
+          "sha1": "4236f2858a5d3dec77493e50e65e65175834381b",
+          "md5": "5354a08269ccd7137ece89bf2438ebf0"
         }
       ]
     }

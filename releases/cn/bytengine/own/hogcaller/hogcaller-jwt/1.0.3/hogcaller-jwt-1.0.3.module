@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-jwt",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7.1",
+      "buildId": "6xtfzomltbeclofpds7e3vfr2m"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.auth0",
+          "module": "java-jwt",
+          "version": {
+            "requires": "3.11.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jwt-1.0.3.jar",
+          "url": "hogcaller-jwt-1.0.3.jar",
+          "size": 3559,
+          "sha512": "74fd2920980679d13b8f3e80eb8d65493eefa4e6c552bd4d68a8220af31cdd53eabfcfa28b373d40dfddde8898d58d62e91a2c4866e9674deb13017914ce8b10",
+          "sha256": "9b0722475c7c52dc72802395a2b5a21d9925876b7b6cc5e927b61c7eaf9181e6",
+          "sha1": "6f0b5f3e4ffb0393354cb07357dc9d3c8c7c4e4e",
+          "md5": "6a83a1447e388412187643258b7e8526"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.auth0",
+          "module": "java-jwt",
+          "version": {
+            "requires": "3.11.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jwt-1.0.3.jar",
+          "url": "hogcaller-jwt-1.0.3.jar",
+          "size": 3559,
+          "sha512": "74fd2920980679d13b8f3e80eb8d65493eefa4e6c552bd4d68a8220af31cdd53eabfcfa28b373d40dfddde8898d58d62e91a2c4866e9674deb13017914ce8b10",
+          "sha256": "9b0722475c7c52dc72802395a2b5a21d9925876b7b6cc5e927b61c7eaf9181e6",
+          "sha1": "6f0b5f3e4ffb0393354cb07357dc9d3c8c7c4e4e",
+          "md5": "6a83a1447e388412187643258b7e8526"
+        }
+      ]
+    }
+  ]
+}

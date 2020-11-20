@@ -1,0 +1,93 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-base",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7.1",
+      "buildId": "6xtfzomltbeclofpds7e3vfr2m"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.11"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.0-jre"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-base-1.0.3.jar",
+          "url": "hogcaller-base-1.0.3.jar",
+          "size": 37210,
+          "sha512": "49e492623f964416d5d5123b6af781b6de521ff3372036ccbd3eb73b813c7400e7c52b65fc656a03652de783257a0b53291a5197aef944952fd51f8387c57722",
+          "sha256": "46eb8b707871489fa7956f37e835411f88dd236afb375ef37883482086a82e7d",
+          "sha1": "06ac1bd1c17520f10935d2cfb76ce1197f590d4c",
+          "md5": "17ec1c312535380e82e4e9fc6be813f0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.11"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "30.0-jre"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-base-1.0.3.jar",
+          "url": "hogcaller-base-1.0.3.jar",
+          "size": 37210,
+          "sha512": "49e492623f964416d5d5123b6af781b6de521ff3372036ccbd3eb73b813c7400e7c52b65fc656a03652de783257a0b53291a5197aef944952fd51f8387c57722",
+          "sha256": "46eb8b707871489fa7956f37e835411f88dd236afb375ef37883482086a82e7d",
+          "sha1": "06ac1bd1c17520f10935d2cfb76ce1197f590d4c",
+          "md5": "17ec1c312535380e82e4e9fc6be813f0"
+        }
+      ]
+    }
+  ]
+}

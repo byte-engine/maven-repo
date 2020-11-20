@@ -1,0 +1,93 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-spring",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7.1",
+      "buildId": "6xtfzomltbeclofpds7e3vfr2m"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "cn.bytengine.own.hogcaller",
+          "module": "hogcaller-base",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-webmvc",
+          "version": {
+            "requires": "5.2.9.RELEASE"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-spring-1.0.3.jar",
+          "url": "hogcaller-spring-1.0.3.jar",
+          "size": 6483,
+          "sha512": "95df18dc7f3d907d5be882b749a7335db800d1d7e1007c650c79729bc9618f949fa4b713fee232ae57dd767fa9131890dc00c980d502238fb9555bb7b241f4b0",
+          "sha256": "ae50adab059d93610b1df1c9221b929085c0400352b2a68d87618d1e0285d580",
+          "sha1": "b02799f0aea27ccf92eaf813c167ef5bafcab5e7",
+          "md5": "042d28f45b80c7fe4e150f0fad6b75f3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "cn.bytengine.own.hogcaller",
+          "module": "hogcaller-base",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "org.springframework",
+          "module": "spring-webmvc",
+          "version": {
+            "requires": "5.2.9.RELEASE"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-spring-1.0.3.jar",
+          "url": "hogcaller-spring-1.0.3.jar",
+          "size": 6483,
+          "sha512": "95df18dc7f3d907d5be882b749a7335db800d1d7e1007c650c79729bc9618f949fa4b713fee232ae57dd767fa9131890dc00c980d502238fb9555bb7b241f4b0",
+          "sha256": "ae50adab059d93610b1df1c9221b929085c0400352b2a68d87618d1e0285d580",
+          "sha1": "b02799f0aea27ccf92eaf813c167ef5bafcab5e7",
+          "md5": "042d28f45b80c7fe4e150f0fad6b75f3"
+        }
+      ]
+    }
+  ]
+}

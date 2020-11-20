@@ -1,0 +1,107 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.bytengine.own.hogcaller",
+    "module": "hogcaller-jackson",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.7.1",
+      "buildId": "6xtfzomltbeclofpds7e3vfr2m"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.3"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jsr310",
+          "version": {
+            "requires": "2.11.3"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.module",
+          "module": "jackson-module-parameter-names",
+          "version": {
+            "requires": "2.11.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jackson-1.0.3.jar",
+          "url": "hogcaller-jackson-1.0.3.jar",
+          "size": 4810,
+          "sha512": "62c82d86b01fe835bbfa6654fa4e9096b25f871a1a27bd7e42e38174f4b40823fdaf42fec067b3c76be4fceb550ce4371cf64223082f9a01bd99e5bdff4eca29",
+          "sha256": "8dab11826f7f68378408e5fb5b3009d44b363566d9d083e5765315bf7d8d763a",
+          "sha1": "c98d969a17f17729b647f57a05f8c1116b6e91c8",
+          "md5": "82766dc4e964fcceeae47ecb0a5d4dd9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.11.3"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jsr310",
+          "version": {
+            "requires": "2.11.3"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.module",
+          "module": "jackson-module-parameter-names",
+          "version": {
+            "requires": "2.11.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "hogcaller-jackson-1.0.3.jar",
+          "url": "hogcaller-jackson-1.0.3.jar",
+          "size": 4810,
+          "sha512": "62c82d86b01fe835bbfa6654fa4e9096b25f871a1a27bd7e42e38174f4b40823fdaf42fec067b3c76be4fceb550ce4371cf64223082f9a01bd99e5bdff4eca29",
+          "sha256": "8dab11826f7f68378408e5fb5b3009d44b363566d9d083e5765315bf7d8d763a",
+          "sha1": "c98d969a17f17729b647f57a05f8c1116b6e91c8",
+          "md5": "82766dc4e964fcceeae47ecb0a5d4dd9"
+        }
+      ]
+    }
+  ]
+}
